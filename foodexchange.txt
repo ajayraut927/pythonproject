@@ -4,4 +4,7 @@ rice
 daal
 vegetables 
 
+mutton and chicken
+pizza and burger
+
 Thank you
